@@ -49,8 +49,8 @@ const accept = () => {
     </div>
   </div>
   <div v-if="step === 2" class="container">
-    <h2>Eu sabia que você não iria resistir, hahahah!</h2>
-    <h3>Mandarei mais informações no whatsapp! Até breve!!! 🥰</h3>
+    <h2>Eu sabia que você não iria recusar, odaskokfoasokdwqfsa!</h2>
+    <h3>Mandarei mais informações no Disc! Até breve!!! 🥰</h3>
 
   </div>
 </template>
